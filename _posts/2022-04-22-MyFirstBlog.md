@@ -11,6 +11,10 @@ comments: true
 typora-root-url: ../../jlwang1998.github.io
 math: false
 mermaid: true
+
+image:
+  src: /assets/blog_res/2022-04-22-MyFirstBlog.assets/love.jpg
+  alt: 宝宝
 ---
 
 # 这是我的第一篇博客
