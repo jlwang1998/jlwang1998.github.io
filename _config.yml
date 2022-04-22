@@ -13,7 +13,7 @@ baseurl: ''
 lang: zh-CN
 
 # Additional parameters for datetime localization, optional. › https://github.com/iamkun/dayjs/tree/dev/src/locale
-prefer_datetime_locale: Asia/Shanghai
+prefer_datetime_locale: Asia/Xi'an
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone:
@@ -21,7 +21,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 王家乐                        # the main title
+title: jlwang1998                        # the main title
 
 tagline: 机械转码学习笔记   # it will display as the sub-title
 
